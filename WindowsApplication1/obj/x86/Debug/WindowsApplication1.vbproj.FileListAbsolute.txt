@@ -1,0 +1,434 @@
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.HealthCardsend.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.HealthCardsend.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.xml
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Casso.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.xml
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Casso.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.HealthCardsend.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+C:\Users\user\Desktop\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.xml
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Casso.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.HealthCardsend.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\stdole.dll
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROJECTS\SINCE 2024\JOSHUA FILES\MY VB PROJECTS\REAL TIME ONGOING\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CopyComplete
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\FlashControlV71.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.xml
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Casso.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.HealthCardsend.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+C:\Users\ADMIN\Desktop\BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Casso.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.HealthCardsend.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe.config
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AForge.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AForge.Video.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AForge.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AForge.Video.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessment.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Assessor.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Casso.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedulacorp_assess.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Cedulareq.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cedula_assess.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collection.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Collector.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ConnectionConfiguration.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluation.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Evaluator.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_changepass.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.HealthCardsend.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.imageviewer.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogIn.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Managerptreq.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdfviewer.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reqStatus.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rptadmin.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessment.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.rpt_assessor.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sending.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuperAdmin.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.VCODEFINDER.resources
+C:\Users\ADMIN\Desktop\TAX_BUSINESSONLINERENEWAL2023withCEDULA\BusinessOnlineRenewal-juswa\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

@@ -1,0 +1,176 @@
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\Gma.QrCodeNet.Encoding.Net35.pdb
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\Gma.QrCodeNet.Encoding.Net35.xml
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\zxing.pdb
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\zxing.xml
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.dll
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.dll
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.xml
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.xml
+D:\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\QRCODE\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.MainForm.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.SearchAppointment.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.PrintHealth.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.SendSMS.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.LogIn.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.SearchQR.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.HealthRecord.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.FormPrompt.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.SearchRecord.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.Settings.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\HealthCertificate\QRCodeSystem\WindowsApplication1\obj\Debug\WindowsApplication1.UserManagement.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.ConnectionConfiguration.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.LogIn.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\TACLOBAN\01-15-2020\01-15-2020\PROJECTS\TACLOBAN\Business Online Application\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.MainMenu.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.ConnectionConfiguration.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Evaluator.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.LogIn.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.MainMenu.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.SuperAdmin.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Evaluation.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Assessor.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Assessment.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.imageviewer.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.pdfviewer.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.sending.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Cedulareq.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.rptadmin.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.cedula_assess.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Collection.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.xml
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Assessment.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Assessor.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Cedulareq.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.cedula_assess.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Collection.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.ConnectionConfiguration.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Evaluation.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Evaluator.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.imageviewer.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.LogIn.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.pdfviewer.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.rptadmin.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.sending.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.SuperAdmin.resources
+C:\Users\ADMIN\Desktop\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.assessmentcedula_crpt.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.rpt_assessment.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.rpt_assessor.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.reqStatus.resources
+D:\MY VB PROJECTS\REAL TIME ONGOING\BusinessOnlineRenewal\WindowsApplication1\obj\Debug\WindowsApplication1.Collector.resources

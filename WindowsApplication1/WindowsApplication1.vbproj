@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9989B9BB-CF0A-418F-8AFE-7B6ACE1B1D43}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>WindowsApplication1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Gma.QrCodeNet.Encoding.Net35">
+      <HintPath>C:\Users\UNDp\Downloads\Compressed\QrCode.Net 0.4 Pre-Release\QrCode.Net 0.4 Pre-Release\Gma.QrCodeNet.Encoding.Net35\Gma.QrCodeNet.Encoding.Net35.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector NET 8.0.33.1\MySql.Data.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Tulpep.NotificationWindow">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.37\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="zxing, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\UNDp\Downloads\Compressed\ZXing.Net.0.14.0.0\net4.5\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assessment.Designer.vb">
+      <DependentUpon>Assessment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Assessment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="assessmentcedula.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>assessmentcedula.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="assessmentcedula_crpt.Designer.vb">
+      <DependentUpon>assessmentcedula_crpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="assessmentcedula_crpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assessor.Designer.vb">
+      <DependentUpon>Assessor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Assessor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Casso.Designer.vb">
+      <DependentUpon>Casso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Casso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cedulacorp_assess.Designer.vb">
+      <DependentUpon>cedulacorp_assess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cedulacorp_assess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cedulareq.Designer.vb">
+      <DependentUpon>Cedulareq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cedulareq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cedula_assess.Designer.vb">
+      <DependentUpon>cedula_assess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cedula_assess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class1.vb" />
+    <Compile Include="Collection.Designer.vb">
+      <DependentUpon>Collection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Collection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Collector.Designer.vb">
+      <DependentUpon>Collector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Collector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.vb" />
+    <Compile Include="ConnectionConfiguration.Designer.vb">
+      <DependentUpon>ConnectionConfiguration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionConfiguration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Evaluation.Designer.vb">
+      <DependentUpon>Evaluation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Evaluation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Evaluator.Designer.vb">
+      <DependentUpon>Evaluator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Evaluator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_changepass.Designer.vb">
+      <DependentUpon>frm_changepass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_changepass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HealthCardsend.Designer.vb">
+      <DependentUpon>HealthCardsend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HealthCardsend.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imageviewer.Designer.vb">
+      <DependentUpon>imageviewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="imageviewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.vb">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Managerptreq.Designer.vb">
+      <DependentUpon>Managerptreq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Managerptreq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pdfviewer.Designer.vb">
+      <DependentUpon>pdfviewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pdfviewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reqStatus.Designer.vb">
+      <DependentUpon>reqStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reqStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptadmin.Designer.vb">
+      <DependentUpon>rptadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rptadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpt_assessment.Designer.vb">
+      <DependentUpon>rpt_assessment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rpt_assessment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpt_assessor.Designer.vb">
+      <DependentUpon>rpt_assessor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rpt_assessor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sending.Designer.vb">
+      <DependentUpon>sending.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sending.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="slqcontrol.vb" />
+    <Compile Include="sqlcontrol2.vb" />
+    <Compile Include="sqlcontrol3.vb" />
+    <Compile Include="sqlcontrol4.vb" />
+    <Compile Include="sqlcontrolgeo.vb" />
+    <Compile Include="SuperAdmin.Designer.vb">
+      <DependentUpon>SuperAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCODEFINDER.Designer.vb">
+      <DependentUpon>VCODEFINDER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCODEFINDER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assessment.resx">
+      <DependentUpon>Assessment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="assessmentcedula.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>assessmentcedula.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="assessmentcedula_crpt.resx">
+      <DependentUpon>assessmentcedula_crpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assessor.resx">
+      <DependentUpon>Assessor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Casso.resx">
+      <DependentUpon>Casso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cedulacorp_assess.resx">
+      <DependentUpon>cedulacorp_assess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cedulareq.resx">
+      <DependentUpon>Cedulareq.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cedula_assess.resx">
+      <DependentUpon>cedula_assess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Collection.resx">
+      <DependentUpon>Collection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Collector.resx">
+      <DependentUpon>Collector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectionConfiguration.resx">
+      <DependentUpon>ConnectionConfiguration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Evaluation.resx">
+      <DependentUpon>Evaluation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Evaluator.resx">
+      <DependentUpon>Evaluator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_changepass.resx">
+      <DependentUpon>frm_changepass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HealthCardsend.resx">
+      <DependentUpon>HealthCardsend.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imageviewer.resx">
+      <DependentUpon>imageviewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managerptreq.resx">
+      <DependentUpon>Managerptreq.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pdfviewer.resx">
+      <DependentUpon>pdfviewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reqStatus.resx">
+      <DependentUpon>reqStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptadmin.resx">
+      <DependentUpon>rptadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_assessment.resx">
+      <DependentUpon>rpt_assessment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_assessor.resx">
+      <DependentUpon>rpt_assessor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sending.resx">
+      <DependentUpon>sending.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdmin.resx">
+      <DependentUpon>SuperAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCODEFINDER.resx">
+      <DependentUpon>VCODEFINDER.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\pill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %288%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %2812%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portable-document-format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %2814%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\growth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\growth1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down-arrow %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background 601x257.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background 890x555.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHO MANAGEMENT SYSTEM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\technical-support.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-button %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\debit-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pending.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pending small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pending 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eval.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evalsmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-circle-light-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-circle-red-point-transparent-background-11563241690fqswnj7pqe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circlered.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full-moonblue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cost-per-click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globalpaid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\behavior.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taxes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\budget.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\budget %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact-form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\market.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\behavior3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taxes %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senddd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaaaa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendingnewww.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessssss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mortgage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buildinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finger-print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\certificateaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\certificates.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loan %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="waray\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gmail1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loan %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world-grid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-center.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\companyico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\residential.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
