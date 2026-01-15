@@ -5,9 +5,7 @@
 Public Class sqlcontrol2
     'Private dbcon As New SqlConnection("Server=10.0.0.2;Database=BPLSWEBREC;USER=sa;PASSWORD=@dm1n1str@t0r;")
     Private dbcon As New SqlConnection("Server=58.69.249.245;Database=BPLS;USER=sa;PASSWORD=@dm1n1str@t0r;")
-    '  Private dbcon As New SqlConnection("Server=localhost;Database=BPLSWEBREC;USER=sa;PASSWORD=@dm1n1str@t0r;")
-    'For Remote
-    'Private dbcon As New SqlConnection("Server=58.69.249.245;Database=GeoRecords;USER=sa;PASSWORD=@dm1n1str@t0r;")
+
     Private dbcmd As SqlCommand
 
     'DB data
