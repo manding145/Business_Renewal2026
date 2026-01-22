@@ -9,6 +9,13 @@ Public Class assessmentcedula_crpt
     Public intgrandtotal As String = cedulacorp_assess.txtgrandtotal.Text
     Private strbname As String = cedulacorp_assess.lblbname.Text
     Private straddress As String = cedulacorp_assess.lbladdress.Text
+
+    'man
+    Private TxtBirth As String = cedulacorp_assess.Txt_Birthday.Text
+    Private TxtBirthPlace As String = cedulacorp_assess.Txt_BirthPlace.Text
+    Private TxtStatus As String = cedulacorp_assess.Txt_Status.Text
+
+
     Dim RPT As New assessmentcedula
 
     Private Sub assessmentcedula1_InitReport(sender As Object, e As EventArgs) Handles assessmentcedula1.InitReport
@@ -55,16 +62,22 @@ Public Class assessmentcedula_crpt
         Dim pfieldaddress As New ParameterField
         Dim pdiscreteaddress As New ParameterDiscreteValue
 
+        'man
+        Dim pfieldbirth As New ParameterField
+        Dim pdiscretebirth As New ParameterDiscreteValue
+
+        Dim pfieldBirthPlace As New ParameterField
+        Dim pdiscreteBirthPlace As New ParameterDiscreteValue
+
+        Dim pfieldStatus As New ParameterField
+        Dim pdiscreteStatus As New ParameterDiscreteValue
+
         pfieldID.Name = "CEDID"
         pdiscreteID.Value = 1
         pfieldID.CurrentValues.Add(pdiscreteID)
         pfields.Add(pfieldID)
 
-
-        pfieldtax1.Name = "taxableamt"
-        pdiscretetax1.Value = inttaxableamt
-        pfieldtax1.CurrentValues.Add(pdiscretetax1)
-        pfields.Add(pfieldtax1)
+      
 
         pfieldamt.Name = "amt"
         pdiscreteamt.Value = inttaxamt
@@ -96,7 +109,21 @@ Public Class assessmentcedula_crpt
         pfieldaddress.CurrentValues.Add(pdiscreteaddress)
         pfields.Add(pfieldaddress)
 
+        'man
+        pfieldbirth.Name = "Txt_Birth"
+        pdiscretebirth.Value = TxtBirth
+        pfieldbirth.CurrentValues.Add(pdiscretebirth)
+        pfields.Add(pfieldbirth)
 
+        pfieldBirthPlace.Name = "Txt_BirthPlace"
+        pdiscreteBirthPlace.Value = TxtBirthPlace
+        pfieldBirthPlace.CurrentValues.Add(pdiscreteBirthPlace)
+        pfields.Add(pfieldBirthPlace)
+
+        pfieldStatus.Name = "Txt_Status"
+        pdiscreteStatus.Value = TxtStatus
+        pfieldBirthPlace.CurrentValues.Add(pdiscreteStatus)
+        pfields.Add(pfieldStatus)
 
 
         'Dim user As String = "usera2"
@@ -106,8 +133,6 @@ Public Class assessmentcedula_crpt
         ' rpt.SetDatabaseLogon("usera2", "passa2", "10.0.14.117", "businessportal", True)
         CrystalReportViewer1.ReportSource = rpt
         CrystalReportViewer1.ParameterFieldInfo = pfields
-
-
 
 
     End Sub
@@ -166,7 +191,6 @@ Public Class assessmentcedula_crpt
 
         RPT.PrintOptions.ApplyPageMargins(New CrystalDecisions.Shared.PageMargins(200, 200, 200, 200))
 
-
         Dim TxtBnameCR As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("txtbnameCR")
         Dim TxtaddressCR As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("TxtaddressCR")
         Dim TxttaxCR As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("txttaxableCR")
@@ -176,6 +200,11 @@ Public Class assessmentcedula_crpt
         Dim TxtgrandtotalCR As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("TxtgrandtotalCR")
         Dim TxtacctCR As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("TxtacctCR")
         Dim TxtdueCR As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("TxtdueCR")
+
+        'man
+        Dim Txt_Birth As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("Txt_Birth")
+        Dim Txt_BirthPlace As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("Txt_BirthPlace")
+        Dim Txt_Status As CrystalDecisions.CrystalReports.Engine.TextObject = RPT.ReportDefinition.Sections(3).ReportObjects("Txt_Status")
 
 
         TxtBnameCR.Text = strbname
@@ -187,6 +216,11 @@ Public Class assessmentcedula_crpt
         TxtgrandtotalCR.Text = intgrandtotal
         TxtacctCR.Text = cedulacorp_assess.txtpre.Text + " - " + cedulacorp_assess.txtaccount.Text
         TxtdueCR.Text = cedulacorp_assess.txtdue.Text
+
+        'man
+        Txt_Birth.Text = TxtBirth
+        Txt_BirthPlace.Text = TxtBirthPlace
+        Txt_Status.Text = TxtStatus
 
         CrystalReportViewer1.ReportSource = RPT
 

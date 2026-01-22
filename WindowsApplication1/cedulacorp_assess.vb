@@ -170,6 +170,7 @@ Public Class cedulacorp_assess
         Dim intconfirm As Integer = MessageBox.Show("Save Assessment ? ", "CONFIRMATION", MessageBoxButtons.OKCancel, MessageBoxIcon.Question)
 
         If intconfirm = DialogResult.OK Then
+
             'for MYSQL bportal
             '' SQL.AddParam("@cedid", intcedid)
             'SQL.AddParam("@acct", txtpre.Text + "-" + txtaccount.Text)
@@ -180,7 +181,6 @@ Public Class cedulacorp_assess
             'SQL.ExecQuery("insert into business_ceduladetail_hdr set ced_accountno = @acct , ced_taxableamt1 = @tax1 , ced_taxamt1 = @taxamt1 , ced_totalamt = @totalamt , ced_GRANDTOTAL = @grandtotal ")
             ''for update
             ''SQL.ExecQuery("update business_ceduladetail_hdr set ced_accountno = @acct , ced_taxableamt1 = @tax1 , ced_taxamt1 = @taxamt1 , ced_totalamt = @totalamt , ced_GRANDTOTAL = @grandtotal where ced_id = @cedid ")
-
 
 
             'For Offline/Remote MSSQL
@@ -372,11 +372,29 @@ Public Class cedulacorp_assess
 
     End Sub
 
-    Private Sub txtaddress_TextChanged(sender As Object, e As EventArgs) Handles txtaddress.TextChanged
+    Private Sub txtaddress_TextChanged(sender As Object, e As EventArgs) Handles Txt_Status.TextChanged
 
     End Sub
 
     Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
+
+
+
+        SQL.AddParam("@bact", txtpre.Text + "-" + txtaccount.Text)
+        SQL.ExecQuery("Select * from ONLINE.business_application_tbl where accountno = @bact")
+        If SQL.DBDT.Rows.Count = 0 Then
+
+            Txt_Birthday.Text = "-"
+            Txt_BirthPlace.Text = "-"
+            Txt_Status.Text = "-"
+        Else
+
+            For Each r As DataRow In SQL.DBDT.Rows
+                Txt_Birthday.Text = r("Birthdate").ToString()
+                Txt_BirthPlace.Text = r("placeOfBirth").ToString()
+                Txt_Status.Text = r("civilStatus").ToString()
+            Next
+        End If
 
 
 
@@ -390,8 +408,8 @@ Public Class cedulacorp_assess
             lbltype.Text = r("BusinessTypeID").ToString
             txtbusiness.Text = r("Businessname").ToString
 
-
         Next
+
 
 
         If lbltype.Text = "1" Or lbltype.Text = "4" Then

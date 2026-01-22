@@ -51,6 +51,8 @@ Module Connection
 
     Public cs As String = "Server=" & My.Settings.Server & ";Database=GeoRecords;User ID=" & My.Settings.username & ";Password=" & My.Settings.password & ";"
 
+    'Public cs5 As String = "Server=" & My.Settings.Server & ";Database=BPLS;User ID=sa;Password=@dm1n1str@t0r;"
+
 
     Public cs1 As String = "Server=" & My.Settings.Server & ";Database=CHO;User ID=" & My.Settings.username & ";Password=" & My.Settings.password & ";"
     Public cs2 As String = "Server=" & My.Settings.Server & ";Database=GeoTos;User ID=" & My.Settings.username & ";Password=" & My.Settings.password & ";"

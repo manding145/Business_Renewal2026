@@ -41,11 +41,13 @@ Partial Class cedulacorp_assess
         Me.TabPageCorp = New System.Windows.Forms.TabPage()
         Me.lbltype = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtbusiness = New System.Windows.Forms.Label()
         Me.txtICR = New System.Windows.Forms.TextBox()
         Me.txtcitizenship = New System.Windows.Forms.TextBox()
-        Me.txtpob = New System.Windows.Forms.TextBox()
+        Me.Txt_BirthPlace = New System.Windows.Forms.TextBox()
         Me.txtsex = New System.Windows.Forms.TextBox()
-        Me.txtaddress = New System.Windows.Forms.TextBox()
+        Me.Txt_Status = New System.Windows.Forms.TextBox()
         Me.panelamt = New System.Windows.Forms.Panel()
         Me.Panel5 = New System.Windows.Forms.Panel()
         Me.btnpreview = New System.Windows.Forms.Button()
@@ -129,8 +131,7 @@ Partial Class cedulacorp_assess
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Panel4 = New System.Windows.Forms.Panel()
         Me.lblbname2 = New System.Windows.Forms.Label()
-        Me.txtbusiness = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
+        Me.Txt_Birthday = New System.Windows.Forms.TextBox()
         Me.Panel3.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel2.SuspendLayout()
@@ -356,14 +357,15 @@ Partial Class cedulacorp_assess
         '
         'GroupBox1
         '
+        Me.GroupBox1.Controls.Add(Me.Txt_Birthday)
         Me.GroupBox1.Controls.Add(Me.Label6)
         Me.GroupBox1.Controls.Add(Me.txtbusiness)
         Me.GroupBox1.Controls.Add(Me.txtICR)
         Me.GroupBox1.Controls.Add(Me.txtcitizenship)
-        Me.GroupBox1.Controls.Add(Me.txtpob)
+        Me.GroupBox1.Controls.Add(Me.Txt_BirthPlace)
         Me.GroupBox1.Controls.Add(Me.Label18)
         Me.GroupBox1.Controls.Add(Me.txtsex)
-        Me.GroupBox1.Controls.Add(Me.txtaddress)
+        Me.GroupBox1.Controls.Add(Me.Txt_Status)
         Me.GroupBox1.Controls.Add(Me.lbladdress)
         Me.GroupBox1.Controls.Add(Me.Label17)
         Me.GroupBox1.Controls.Add(Me.lblbname)
@@ -375,10 +377,31 @@ Partial Class cedulacorp_assess
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "DETAILS"
         '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.Location = New System.Drawing.Point(6, 21)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(42, 13)
+        Me.Label6.TabIndex = 188
+        Me.Label6.Text = "Owner:"
+        '
+        'txtbusiness
+        '
+        Me.txtbusiness.AutoSize = True
+        Me.txtbusiness.Font = New System.Drawing.Font("Segoe UI", 9.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtbusiness.ForeColor = System.Drawing.SystemColors.Highlight
+        Me.txtbusiness.Location = New System.Drawing.Point(26, 94)
+        Me.txtbusiness.Name = "txtbusiness"
+        Me.txtbusiness.Size = New System.Drawing.Size(102, 17)
+        Me.txtbusiness.TabIndex = 187
+        Me.txtbusiness.Text = "Business Name"
+        '
         'txtICR
         '
         Me.txtICR.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtICR.Location = New System.Drawing.Point(9, 241)
+        Me.txtICR.Location = New System.Drawing.Point(9, 245)
         Me.txtICR.Name = "txtICR"
         Me.txtICR.ReadOnly = True
         Me.txtICR.Size = New System.Drawing.Size(358, 22)
@@ -389,7 +412,7 @@ Partial Class cedulacorp_assess
         'txtcitizenship
         '
         Me.txtcitizenship.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtcitizenship.Location = New System.Drawing.Point(9, 263)
+        Me.txtcitizenship.Location = New System.Drawing.Point(9, 267)
         Me.txtcitizenship.Name = "txtcitizenship"
         Me.txtcitizenship.ReadOnly = True
         Me.txtcitizenship.Size = New System.Drawing.Size(358, 22)
@@ -397,21 +420,20 @@ Partial Class cedulacorp_assess
         Me.txtcitizenship.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         Me.txtcitizenship.Visible = False
         '
-        'txtpob
+        'Txt_BirthPlace
         '
-        Me.txtpob.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtpob.Location = New System.Drawing.Point(9, 198)
-        Me.txtpob.Name = "txtpob"
-        Me.txtpob.ReadOnly = True
-        Me.txtpob.Size = New System.Drawing.Size(358, 22)
-        Me.txtpob.TabIndex = 174
-        Me.txtpob.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        Me.txtpob.Visible = False
+        Me.Txt_BirthPlace.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Txt_BirthPlace.Location = New System.Drawing.Point(9, 180)
+        Me.Txt_BirthPlace.Name = "Txt_BirthPlace"
+        Me.Txt_BirthPlace.ReadOnly = True
+        Me.Txt_BirthPlace.Size = New System.Drawing.Size(358, 22)
+        Me.Txt_BirthPlace.TabIndex = 174
+        Me.Txt_BirthPlace.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txtsex
         '
         Me.txtsex.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtsex.Location = New System.Drawing.Point(9, 219)
+        Me.txtsex.Location = New System.Drawing.Point(9, 223)
         Me.txtsex.Name = "txtsex"
         Me.txtsex.ReadOnly = True
         Me.txtsex.Size = New System.Drawing.Size(358, 22)
@@ -419,16 +441,15 @@ Partial Class cedulacorp_assess
         Me.txtsex.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         Me.txtsex.Visible = False
         '
-        'txtaddress
+        'Txt_Status
         '
-        Me.txtaddress.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtaddress.Location = New System.Drawing.Point(9, 176)
-        Me.txtaddress.Name = "txtaddress"
-        Me.txtaddress.ReadOnly = True
-        Me.txtaddress.Size = New System.Drawing.Size(358, 22)
-        Me.txtaddress.TabIndex = 171
-        Me.txtaddress.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        Me.txtaddress.Visible = False
+        Me.Txt_Status.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Txt_Status.Location = New System.Drawing.Point(9, 201)
+        Me.Txt_Status.Name = "Txt_Status"
+        Me.Txt_Status.ReadOnly = True
+        Me.Txt_Status.Size = New System.Drawing.Size(358, 22)
+        Me.Txt_Status.TabIndex = 171
+        Me.Txt_Status.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'panelamt
         '
@@ -1408,26 +1429,15 @@ Partial Class cedulacorp_assess
         Me.lblbname2.TabIndex = 175
         Me.lblbname2.Text = "COMMUNITY TAX CERTIFICATE - BUSINESS" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
-        'txtbusiness
+        'Txt_Birthday
         '
-        Me.txtbusiness.AutoSize = True
-        Me.txtbusiness.Font = New System.Drawing.Font("Segoe UI", 9.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtbusiness.ForeColor = System.Drawing.SystemColors.Highlight
-        Me.txtbusiness.Location = New System.Drawing.Point(26, 94)
-        Me.txtbusiness.Name = "txtbusiness"
-        Me.txtbusiness.Size = New System.Drawing.Size(102, 17)
-        Me.txtbusiness.TabIndex = 187
-        Me.txtbusiness.Text = "Business Name"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(6, 21)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(42, 13)
-        Me.Label6.TabIndex = 188
-        Me.Label6.Text = "Owner:"
+        Me.Txt_Birthday.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Txt_Birthday.Location = New System.Drawing.Point(9, 158)
+        Me.Txt_Birthday.Name = "Txt_Birthday"
+        Me.Txt_Birthday.ReadOnly = True
+        Me.Txt_Birthday.Size = New System.Drawing.Size(358, 22)
+        Me.Txt_Birthday.TabIndex = 189
+        Me.Txt_Birthday.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'cedulacorp_assess
         '
@@ -1518,9 +1528,9 @@ Partial Class cedulacorp_assess
     Friend WithEvents lblbname2 As System.Windows.Forms.Label
     Friend WithEvents txtICR As System.Windows.Forms.TextBox
     Friend WithEvents txtcitizenship As System.Windows.Forms.TextBox
-    Friend WithEvents txtpob As System.Windows.Forms.TextBox
+    Friend WithEvents Txt_BirthPlace As System.Windows.Forms.TextBox
     Friend WithEvents txtsex As System.Windows.Forms.TextBox
-    Friend WithEvents txtaddress As System.Windows.Forms.TextBox
+    Friend WithEvents Txt_Status As System.Windows.Forms.TextBox
     Friend WithEvents txtpre As System.Windows.Forms.TextBox
     Friend WithEvents Button9 As System.Windows.Forms.Button
     Friend WithEvents txtaccount As System.Windows.Forms.TextBox
@@ -1576,4 +1586,5 @@ Partial Class cedulacorp_assess
     Friend WithEvents lbltype As System.Windows.Forms.Label
     Friend WithEvents txtbusiness As System.Windows.Forms.Label
     Friend WithEvents Label6 As System.Windows.Forms.Label
+    Friend WithEvents Txt_Birthday As System.Windows.Forms.TextBox
 End Class
