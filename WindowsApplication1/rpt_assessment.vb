@@ -374,6 +374,6 @@ Public Class rpt_assessment
     End Sub
 
     Private Sub AxAcroPDF1_Enter(sender As Object, e As EventArgs) Handles AxAcroPDF1.Enter
-        AxAcroPDF1.setView("Fit")
+        AxAcroPDF1.setView("FitV")
     End Sub
 End Class

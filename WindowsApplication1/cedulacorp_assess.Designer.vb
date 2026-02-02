@@ -41,6 +41,7 @@ Partial Class cedulacorp_assess
         Me.TabPageCorp = New System.Windows.Forms.TabPage()
         Me.lbltype = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Txt_Birthday = New System.Windows.Forms.TextBox()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.txtbusiness = New System.Windows.Forms.Label()
         Me.txtICR = New System.Windows.Forms.TextBox()
@@ -131,7 +132,6 @@ Partial Class cedulacorp_assess
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Panel4 = New System.Windows.Forms.Panel()
         Me.lblbname2 = New System.Windows.Forms.Label()
-        Me.Txt_Birthday = New System.Windows.Forms.TextBox()
         Me.Panel3.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel2.SuspendLayout()
@@ -376,6 +376,16 @@ Partial Class cedulacorp_assess
         Me.GroupBox1.TabIndex = 175
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "DETAILS"
+        '
+        'Txt_Birthday
+        '
+        Me.Txt_Birthday.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Txt_Birthday.Location = New System.Drawing.Point(9, 158)
+        Me.Txt_Birthday.Name = "Txt_Birthday"
+        Me.Txt_Birthday.ReadOnly = True
+        Me.Txt_Birthday.Size = New System.Drawing.Size(358, 22)
+        Me.Txt_Birthday.TabIndex = 189
+        Me.Txt_Birthday.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Label6
         '
@@ -1429,16 +1439,6 @@ Partial Class cedulacorp_assess
         Me.lblbname2.TabIndex = 175
         Me.lblbname2.Text = "COMMUNITY TAX CERTIFICATE - BUSINESS" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
-        'Txt_Birthday
-        '
-        Me.Txt_Birthday.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_Birthday.Location = New System.Drawing.Point(9, 158)
-        Me.Txt_Birthday.Name = "Txt_Birthday"
-        Me.Txt_Birthday.ReadOnly = True
-        Me.Txt_Birthday.Size = New System.Drawing.Size(358, 22)
-        Me.Txt_Birthday.TabIndex = 189
-        Me.Txt_Birthday.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
         'cedulacorp_assess
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1450,6 +1450,7 @@ Partial Class cedulacorp_assess
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "cedulacorp_assess"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "="
         Me.Panel3.ResumeLayout(False)
         Me.Panel3.PerformLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()

@@ -77,8 +77,6 @@ Public Class assessmentcedula_crpt
         pfieldID.CurrentValues.Add(pdiscreteID)
         pfields.Add(pfieldID)
 
-      
-
         pfieldamt.Name = "amt"
         pdiscreteamt.Value = inttaxamt
         pfieldamt.CurrentValues.Add(pdiscreteamt)
